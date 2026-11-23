@@ -316,7 +316,7 @@ Autonomous\_AI\_Job\_Agent/
 
 ```powershell
 
-git clone YOUR\_GITHUB\_REPOSITORY\_URL
+git clone https://github.com/Charanya25/Autonomous_AI_Job_Agent.git
 
 cd Autonomous\_AI\_Job\_Agent
 
